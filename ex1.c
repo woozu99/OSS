@@ -1,10 +1,13 @@
 #include <stdio.h>
 
+
 void input(int *p, int N);
 void output(int *p, int N);
 
+
 int main()
 {
+ dogsg odsjgoi dgso giosg 
 	int M, N, k;
 	int x[100], y[100];
         int i;
